@@ -1,0 +1,142 @@
+body {
+	font-family: Times;
+	background: #271b7c;
+	margin: 0;
+	padding: 0;
+	color: #271b7c;
+	margin: 0;
+	}
+	
+h1 {
+	*font-size:1.6em;
+	line-height: 1em;
+	}	
+.container {
+	margin: auto;
+	width: 750px;
+	background: url(../images/background.gif);
+	}
+
+.header {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	}
+	.header img {
+	  margin-top: 10px;
+  }
+
+.left {
+	float: left;
+	}
+
+	.menu {
+	width: 150px;
+	margin: 0 0 20px 20px;
+	color: #271b7c;
+	background: #fbfeac;
+	border: #2e2191 5px solid;
+		}
+		.menu ul {
+			padding: 0;
+			margin: 0;
+			list-style-type: none;
+			}
+		.menu a {
+			background: #fbfeac;
+			font-size: 1.1em;
+			font-style: italic;
+			font-weight: bold;
+			color: #271b7c;
+			text-decoration: none;
+			display: block;
+			padding: 13px 0 13px 10px;
+			}
+		.menu a:hover {
+			background: #fff;
+			color: #271b7c;
+			}
+		
+	.image {
+		width: 150px;
+		height: 113px;
+		color: #271b7c;
+		background: #fff;
+		margin: 0 0 20px 20px;
+		border: #2e2191 5px solid;
+		}
+		
+	.reserve-now {
+		width: 160px;
+		height: 53px;
+		color: #271b7c;
+		background: #fff;
+		margin: 0 0 10px 20px;
+		}
+
+.content {
+	color: #271b7c;
+	margin-bottom: 30px;
+	line-height: 130%;
+	margin-left: 190px;
+	margin-right: 20px;
+	padding: 10px;
+	background: #fff;
+	border: #2e2191 5px solid;
+	}
+		.content a, .content a:visited {
+			color: #271b7c;
+			font-weight: bold;
+			text-decoration: underline;
+			}
+		.content a:hover, .content a:active {
+			text-decoration: none;
+			}
+
+.footer {
+	color: #271b7c;
+	line-height: 130%;	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: #2e2191 5px solid;
+	background: #fff;
+	}
+	
+.clear {
+	clear: both;
+	}
+
+.hotelkamloops{
+	display: block;
+	height: 60px;
+	background: url("../images/header-kamloops_hotel.gif") no-repeat;
+	text-indent: -3000px;
+	}
+	
+.kamloopsaccommodations{
+	display: block;
+	height: 60px;
+	background: url("../images/header-kamloops_accommodations.gif") no-repeat;
+	text-indent: -3000px;
+	}
+	
+.kamloopsbedbreakfast{
+	display: block;
+	height: 60px;
+	background: url("../images/header-kamloops_bed_breakfast.gif") no-repeat;
+	text-indent: -3000px;
+	}
+	
+.kamloopshotel{
+	display: block;
+	height: 60px;
+	background: url("../images/header-kamloops-hotel.gif") no-repeat;
+	text-indent: -3000px;
+	}
+	
+.kamloopsmotel{
+	display: block;
+	height: 60px;
+	background: url("../images/header-kamloops_motel.gif") no-repeat;
+	text-indent: -3000px;
+	}
