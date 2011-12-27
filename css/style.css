@@ -21,6 +21,7 @@ h1 {
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-bottom: 10px;
+	text-align: center;
 	}
 	.header img {
 	  margin-top: 10px;
@@ -52,7 +53,7 @@ h1 {
 			display: block;
 			padding: 13px 0 13px 10px;
 			}
-		.menu a:hover {
+		.menu a:hover, .menu li.active a {
 			background: #fff;
 			color: #271b7c;
 			}
