@@ -93,8 +93,8 @@ h1 {
 		.content a:hover, .content a:active {
 			text-decoration: none;
 			}
-	
-.rooms li { margin-bottom: 1em; }
+
+.rooms li, .todo li { margin-bottom: 1em; }
 	.rooms li a, .gallery-links a {
 		font-weight: normal;
 	}
@@ -107,7 +107,7 @@ h1 {
 .rates { border: 1px solid #271b7c; }
 .rates td, .rates th { padding: 5px; width: 20%; vertical-align: top; text-align: left; border: 1px solid #271b7c; }
 
-.availability { text-align: center; }
+.center, .availability { text-align: center; }
 
 .footer {
 	color: #271b7c;
